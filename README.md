@@ -9,7 +9,7 @@
 PAWANKUMAR-AWK/PAWANKUMAR-AWK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="pawankumar-awk" /> </p>
 
 
 <a href="https://www.linkedin.com/in/pawankuamr-awk">
